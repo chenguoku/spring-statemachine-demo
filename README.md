@@ -1,4 +1,7 @@
+
+
 # spring-statemachine-demo
+默认服务端口为 `8080`，示例接口为 `http://localhost:8080/test/one` 和 `http://localhost:8080/test/two`。
 ## 状态机优缺点
 ### 优点
 1. 代码结构化、易于维护、扩展。方便后续添加状态、事件。
